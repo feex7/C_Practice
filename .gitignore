@@ -1,0 +1,16 @@
+# Visual Studio 项目缓存与配置
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
+Debug/
+Release/
+
+# C 语言编译产物
+*.exe
+*.obj
+*.o
+*.out
+*.bin
